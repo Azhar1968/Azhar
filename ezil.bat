@@ -1,1 +1,0 @@
- PhoenixMiner.exe -pool stratum1+tcp://asia.ezil.me:5555 -proto 2 -wal ETH_WALLET.ZIL_WALLET -worker WORKER 
